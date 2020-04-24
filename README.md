@@ -7,7 +7,6 @@ Android上一个优雅、高度自定义、性能高效的日历控件，完美�
   <artifactId>CalendarView</artifactId>
   <version>V1.0</version>
 </dependency>
-```
 
 
 ### 混淆proguard-rules
